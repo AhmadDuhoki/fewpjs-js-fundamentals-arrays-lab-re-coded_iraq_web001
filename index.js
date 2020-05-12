@@ -1,4 +1,4 @@
-const append = 
-const 
-const
-const
+const append = ["Milo", "Otis", "Garfield"];
+const append = ["Milo", "Otis", "Garfield"];
+const append = ["Milo", "Otis", "Garfield"];
+const append = ["Milo", "Otis", "Garfield"];
